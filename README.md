@@ -1,3 +1,7 @@
+# Curso React + Redux: Fundamentos e 2 Apps do Absoluto ZERO!
+## Coder Cursos (Udemy)
+### Seção 3: Projeto Calculadora
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
