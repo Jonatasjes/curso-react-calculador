@@ -1,5 +1,9 @@
 # Curso React + Redux: Fundamentos e 2 Apps do Absoluto ZERO!
+
 ## Coder Cursos (Udemy)
+  - Leonardo Moura Leitao - Arquiteto de Software
+  - Link: https://www.udemy.com/course/react-redux-pt/
+
 ### Seção 3: Projeto Calculadora
 
 # Getting Started with Create React App
